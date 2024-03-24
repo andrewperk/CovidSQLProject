@@ -1,3 +1,6 @@
+-- Data Exploration
+-- Displayed skill: Temp tables, Aggregate Functions, Creating Views, Converting Data Types
+
 -- Alter column from nvarchar to float
 --alter table CovidDeaths alter column total_cases float
 --alter table CovidDeaths alter column total_deaths float
